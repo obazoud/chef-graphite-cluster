@@ -1,0 +1,7 @@
+DEPENDENCIES
+  graphite-cluster
+    path: .
+    metadata: true
+
+GRAPH
+  graphite-cluster (0.1.0)
